@@ -1,11 +1,12 @@
 # Machine-Learning
 The repository contains all the files to reproduce the experiment of my project.
 
-I used Python3 with the external libraries numpy and matplotlib. Finally, I used the MNIST dataset of handwritten images to perform a binary classification of 3 and 5. To construct the model I selected 1000 samples of 3 and 1000 samples of 5. Then to test it I used the remaining part.
+I used Python3 with the external libraries numpy and matplotlib. Finally, I used the MNIST dataset of handwritten images to perform a binary classification of 3 and 5. To construct the model I selected 1000 samples of 3 and 1000 samples of 5. Then to test it, I used the remaining part.
 
 Instructions to reproduce:
-  - download the file Lasso.py
-  - execute it
+  - download the file 'AndreaGiovane.zip'
+  - extract
+  - execute file 'Lasso.py'
 
 Description of my code:
 My code is an implementation of Lasso with coordinate descent algorithm.
